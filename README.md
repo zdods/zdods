@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">my name is zach and i'm a security engineer, from 🇨🇦</p>
+<p align="left">my name is zach and i'm a security engineer from 🇨🇦</p>
 
 ###
 
