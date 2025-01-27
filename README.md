@@ -1,8 +1,8 @@
-<h1 align="left">curl -s zdods.com/messages | jq '.hello'</h1>
+<h1 align="left">echo 'hello!';</h1>
 
 ###
 
-<p align="left">my name is Zach and I'm a Security Engineer, from 🇨🇦</p>
+<p align="left">my name is zach and i'm a security engineer, from 🇨🇦</p>
 
 ###
 
