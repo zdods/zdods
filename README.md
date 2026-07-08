@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">🐛 breaking things since 2019<br>✨ building meaningful & secure software<br>🗡️ learning off-sec</p>
+<p align="left">🐛 breaking things since 2019<br>✨ building meaningful & secure software<br>🗡️ learning offensive security</p>
 
 ###
 
